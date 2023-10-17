@@ -17,7 +17,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: RAKESH JS
-## Program: 212222230115
+RegisterNumber: 212222230115
+```
 ``` python
 import pandas as pd
 import numpy as np
@@ -71,7 +72,6 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 
-
 ## Output:
 ### Head:
 ![image](https://github.com/MukeshVelmurugan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707363/18f3af86-9ae2-4494-bb61-636b83a7bcd5)
@@ -91,7 +91,6 @@ print("RMSE = ",rmse)
 ![image](https://github.com/MukeshVelmurugan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707363/8e868618-b584-4339-a91e-3b07e48301ba)
 ### Values of MSE, MAE and RMSE:
 ![image](https://github.com/MukeshVelmurugan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707363/08d3470e-d71f-43e9-971f-e4871b589271)
-
 
 
 ## Result:
